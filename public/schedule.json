@@ -1,0 +1,238 @@
+{
+  "teacher": {
+    "Monday": {
+      "3": {
+        "class": "5Г",
+        "classroom": "106"
+      },
+      "4": {
+        "class": "3Б",
+        "classroom": "106"
+      },
+      "8": {
+        "class": "3В",
+        "classroom": "106"
+      },
+      "9": {
+        "class": "3А",
+        "classroom": "106"
+      },
+      "10": {
+        "class": "6Е",
+        "classroom": "106"
+      },
+      "11": {
+        "class": "6Д",
+        "classroom": "106"
+      },
+      "12": {
+        "class": "6Г",
+        "classroom": "106"
+      }
+    },
+    "Tuesday": {
+      "3": {
+        "class": "3Б",
+        "classroom": "106"
+      },
+      "4": {
+        "class": "5Е",
+        "classroom": "106"
+      },
+      "5": {
+        "class": "5Г",
+        "classroom": "106"
+      }
+    },
+    "Wednesday": {
+      "6": {
+        "class": "инф.час",
+        "classroom": "акт.зал"
+      },
+      "8": {
+        "class": "3В",
+        "classroom": "106"
+      },
+      "9": {
+        "class": "3А",
+        "classroom": "106"
+      },
+      "10": {
+        "class": "6Е",
+        "classroom": "106"
+      },
+      "11": {
+        "class": "6Г",
+        "classroom": "106"
+      },
+      "12": {
+        "class": "6Д",
+        "classroom": "106"
+      }
+    },
+    "Thursday": {
+      "3": {
+        "class": "3Б",
+        "classroom": "106"
+      },
+      "4": {
+        "class": "5Г",
+        "classroom": "106"
+      },
+      "5": {
+        "class": "5Е",
+        "classroom": "106"
+      },
+      "6": {
+        "class": "кл.час",
+        "classroom": "302"
+      },
+      "8": {
+        "class": "6Д",
+        "classroom": "106"
+      }
+    },
+    "Friday": {
+      "8": {
+        "class": "3А",
+        "classroom": "106"
+      },
+      "9": {
+        "class": "3В",
+        "classroom": "106"
+      },
+      "11": {
+        "class": "6Г",
+        "classroom": "106"
+      },
+      "12": {
+        "class": "6Е",
+        "classroom": "106"
+      }
+    }
+  },
+  "student": {
+    "Monday": {
+      "1": {
+        "subject": "бел.яз",
+        "classroom": "101"
+      },
+      "2": {
+        "subject": "матем",
+        "classroom": "302"
+      },
+      "3": {
+        "subject": "бел.лит",
+        "classroom": "101"
+      },
+      "4": {
+        "subject": "искусство",
+        "classroom": "319"
+      },
+      "5": {
+        "subject": "ин.яз",
+        "classroom": "214/106"
+      },
+      "6": {
+        "subject": "физ-ра",
+        "classroom": "сп.зал"
+      }
+    },
+    "Tuesday": {
+      "1": {
+        "subject": "русск.яз",
+        "classroom": "301"
+      },
+      "2": {
+        "subject": "матем",
+        "classroom": "206"
+      },
+      "3": {
+        "subject": "русск.лит",
+        "classroom": "301"
+      },
+      "4": {
+        "subject": "ин.яз",
+        "classroom": "301/106"
+      },
+      "5": {
+        "subject": "чел и мир",
+        "classroom": "208"
+      }
+    },
+    "Wednesday": {
+      "1": {
+        "subject": "матем",
+        "classroom": "206"
+      },
+      "2": {
+        "subject": "русск.яз",
+        "classroom": "301"
+      },
+      "3": {
+        "subject": "история",
+        "classroom": "315"
+      },
+      "4": {
+        "subject": "ОБЖ",
+        "classroom": "318"
+      },
+      "5": {
+        "subject": "русск.лит",
+        "classroom": "301"
+      },
+      "6": {
+        "subject": "инф.час",
+        "classroom": "акт.зал"
+      }
+    },
+    "Thursday": {
+      "1": {
+        "subject": "история",
+        "classroom": "315"
+      },
+      "2": {
+        "subject": "матем",
+        "classroom": "301"
+      },
+      "3": {
+        "subject": "труды",
+        "classroom": "111/109"
+      },
+      "4": {
+        "subject": "бел.яз",
+        "classroom": "315"
+      },
+      "5": {
+        "subject": "ин.яз",
+        "classroom": "106/208"
+      },
+      "6": {
+        "subject": "кл.час",
+        "classroom": "302"
+      }
+    },
+    "Friday": {
+      "1": {
+        "subject": "бел.лит",
+        "classroom": "101"
+      },
+      "2": {
+        "subject": "матем",
+        "classroom": "206"
+      },
+      "3": {
+        "subject": "бел.яз",
+        "classroom": "101"
+      },
+      "4": {
+        "subject": "русск.яз",
+        "classroom": "301"
+      },
+      "5": {
+        "subject": "ЧЗС",
+        "classroom": "сп.зал2"
+      }
+    }
+  }
+}

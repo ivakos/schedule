@@ -1,0 +1,108 @@
+:root {
+  --text-color-main: #A1D6E2;
+  --text-color-main-active: #1995AD;
+  --text-color-second: #F1F1F2;
+  --text-color-second-active: #BCBABE;
+}
+
+html {
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  color: var(--text-color-main-active);
+  font-weight: 600;
+}
+
+.app {
+  display: flex;
+  position: relative;
+  width: 100dvw;
+  height: 100dvh;
+  background-color: #A1D6E2;
+  align-items: center;
+  justify-content: center;
+  background-image: url('./images/bg.png');
+  background-size: 35%;
+}
+
+.container {
+  display: flex;
+  position: relative;
+  width: 85%;
+  height: 80%;
+  border-radius: 15px;
+  background-color: #ffffffe4;
+  box-shadow: 0 0 15px #1994ad95;
+  padding: 10px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+button {
+  display: flex;
+  width: 250px;
+  padding: 10px;
+  border: 1px solid var(--text-color-main-active);
+  border-radius: 30px;
+  justify-content: center;
+
+  font-size: 1.0rem;
+  letter-spacing: 0.10rem;
+
+  background-color: var(--text-color-second);
+  color: var(--text-color-main-active);
+
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  user-select: none;
+}
+
+button:active {
+  background-color: var(--text-color-main-active);
+  border-color: var(--text-color-main-active);
+  color: var(--text-color-main);
+  box-shadow: 0px 0px 20px 1px var(--text-color-main-active);
+}
+
+h1 {
+  text-align: center;
+  max-width: 320px;
+  font-size: 1.5rem;
+}
+
+h2 {
+  text-align: center;
+  max-width: 220px;
+  font-size: 1.0rem;
+}
+
+.day__wrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.lessons__wrapper {
+  width: 100%;
+  max-width: 500px;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.lesson {
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+  position: relative;
+}
+
+.lesson::after {
+  content: " ";
+  background: var(--text-color-main-active);
+  width: 100%;
+  height: 0.1px;
+  bottom: 0px;
+  position: absolute;
+}
