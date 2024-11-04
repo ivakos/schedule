@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { BrowserRouter as Router, Route, Routes, useNavigate, useParams } from 'react-router-dom';
+import { HashRouter as Router, Route, Routes, useNavigate, useParams } from 'react-router-dom';
 import './styles/normilize.css';
 import './App.css';
 
@@ -50,8 +50,8 @@ const DaySchedule = () => {
 
   useEffect(() => {
     Promise.all([
-      fetch('/schedule.json').then(res => res.json()),
-      fetch('/timeSchedule.json').then(res => res.json())
+      fetch('/schedule/schedule.json').then(res => res.json()),
+      fetch('/schedule/timeSchedule.json').then(res => res.json())
     ]).then(([scheduleData, timeData]) => {
       setSchedules(scheduleData);
       setTimeSchedule(timeData);
@@ -69,7 +69,7 @@ const DaySchedule = () => {
     ? listLessons.push(
       <div className='lesson' key="header">
         <p style={{ minWidth: '30px' }}>№</p>
-        <p style={{ minWidth: '100px' }}>time</p>
+        <p style={{ minWidth: '110px' }}>time</p>
         <p style={{ minWidth: '100px' }}>class</p>
         <p style={{ minWidth: '55px' }}>room</p>
       </div>
