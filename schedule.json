@@ -1,117 +1,101 @@
 {
   "teacher": {
     "Monday": {
-      "3": {
-        "class": "5Г",
-        "classroom": "106"
-      },
       "4": {
         "class": "3Б",
-        "classroom": "106"
+        "classroom": "75"
       },
-      "5": {
-        "class": "5Е",
-        "classroom": "106"
+      "7": {
+        "class": "3Г",
+        "classroom": "75"
       },
       "8": {
-        "class": "3В",
-        "classroom": "106"
-      },
-      "9": {
         "class": "3А",
-        "classroom": "106"
+        "classroom": "75"
       },
       "10": {
-        "class": "6Е",
-        "classroom": "106"
-      },
-      "11": {
-        "class": "6Д",
-        "classroom": "106"
-      },
-      "12": {
-        "class": "6Г",
-        "classroom": "106"
+        "class": "3В",
+        "classroom": "75"
       }
     },
     "Tuesday": {
+      "1": {
+        "class": "5Г",
+        "classroom": "75"
+      },
       "3": {
-        "class": "3Б",
-        "classroom": "106"
+        "class": "5А",
+        "classroom": "75"
       },
       "4": {
-        "class": "5Е",
-        "classroom": "106"
+        "class": "5Б",
+        "classroom": "75"
       },
-      "5": {
-        "class": "5Г",
-        "classroom": "106"
+      "6": {
+        "class": "5В",
+        "classroom": "75"
       }
     },
     "Wednesday": {
-      "6": {
-        "class": "инф.час",
-        "classroom": "акт.зал"
+      "5": {
+        "class": "3Б",
+        "classroom": "75"
       },
       "8": {
-        "class": "3В",
-        "classroom": "106"
+        "class": "3Г",
+        "classroom": "75"
       },
       "9": {
-        "class": "3А",
-        "classroom": "106"
-      },
-      "10": {
-        "class": "6Е",
-        "classroom": "106"
-      },
-      "11": {
-        "class": "6Г",
-        "classroom": "106"
-      },
-      "12": {
-        "class": "6Д",
-        "classroom": "106"
+        "class": "3В",
+        "classroom": "75"
       }
     },
     "Thursday": {
-      "3": {
-        "class": "3Б",
-        "classroom": "106"
+      "1": {
+        "class": "5В",
+        "classroom": "75"
+      },
+      "2": {
+        "class": "5А",
+        "classroom": "75"
       },
       "4": {
-        "class": "5Г",
-        "classroom": "106"
-      },
-      "5": {
-        "class": "5Е",
-        "classroom": "106"
+        "class": "5Б",
+        "classroom": "75"
       },
       "6": {
-        "class": "кл.час",
-        "classroom": "302"
+        "class": "5Г",
+        "classroom": "75"
       },
-      "8": {
-        "class": "6Д",
-        "classroom": "106"
+      "7": {
+        "class": "3Г",
+        "classroom": "75"
       }
     },
     "Friday": {
+      "1": {
+        "class": "5Б",
+        "classroom": "75"
+      },
+      "2": {
+        "class": "5В",
+        "classroom": "75"
+      },
+      "3": {
+        "class": "5Г",
+        "classroom": "75"
+      },
+      "4": {
+        "class": "5А",
+        "classroom": "75"
+      },
+      "5": {
+        "class": "3Б",
+        "classroom": "75"
+      },
       "8": {
         "class": "3А",
-        "classroom": "106"
-      },
-      "9": {
-        "class": "3В",
-        "classroom": "106"
-      },
-      "11": {
-        "class": "6Г",
-        "classroom": "106"
-      },
-      "12": {
-        "class": "6Е",
-        "classroom": "106"
+        "classroom": "75"
       }
     }
   },
