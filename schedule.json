@@ -1,226 +1,100 @@
 {
-  "teacher": {
-    "Monday": {
-      "4": {
-        "class": "3Б",
-        "classroom": "75"
-      },
-      "7": {
-        "class": "3Г",
-        "classroom": "75"
-      },
-      "8": {
-        "class": "3А",
-        "classroom": "75"
-      },
-      "10": {
-        "class": "3В",
-        "classroom": "75"
-      }
+  "Monday": {
+    "4": {
+      "class": "3Б",
+      "classroom": "75"
     },
-    "Tuesday": {
-      "1": {
-        "class": "5Г",
-        "classroom": "75"
-      },
-      "3": {
-        "class": "5А",
-        "classroom": "75"
-      },
-      "4": {
-        "class": "5Б",
-        "classroom": "75"
-      },
-      "6": {
-        "class": "5В",
-        "classroom": "75"
-      }
+    "7": {
+      "class": "3Г",
+      "classroom": "75"
     },
-    "Wednesday": {
-      "5": {
-        "class": "3Б",
-        "classroom": "75"
-      },
-      "8": {
-        "class": "3Г",
-        "classroom": "75"
-      },
-      "9": {
-        "class": "3В",
-        "classroom": "75"
-      }
+    "8": {
+      "class": "3А",
+      "classroom": "75"
     },
-    "Thursday": {
-      "1": {
-        "class": "5В",
-        "classroom": "75"
-      },
-      "2": {
-        "class": "5А",
-        "classroom": "75"
-      },
-      "4": {
-        "class": "5Б",
-        "classroom": "75"
-      },
-      "6": {
-        "class": "5Г",
-        "classroom": "75"
-      },
-      "7": {
-        "class": "3Г",
-        "classroom": "75"
-      }
-    },
-    "Friday": {
-      "1": {
-        "class": "5Б",
-        "classroom": "75"
-      },
-      "2": {
-        "class": "5В",
-        "classroom": "75"
-      },
-      "3": {
-        "class": "5Г",
-        "classroom": "75"
-      },
-      "4": {
-        "class": "5А",
-        "classroom": "75"
-      },
-      "5": {
-        "class": "3Б",
-        "classroom": "75"
-      },
-      "8": {
-        "class": "3А",
-        "classroom": "75"
-      }
+    "10": {
+      "class": "3В",
+      "classroom": "75"
     }
   },
-  "student": {
-    "Monday": {
-      "1": {
-        "subject": "бел.яз",
-        "classroom": "101"
-      },
-      "2": {
-        "subject": "матем",
-        "classroom": "302"
-      },
-      "3": {
-        "subject": "бел.лит",
-        "classroom": "101"
-      },
-      "4": {
-        "subject": "искусство",
-        "classroom": "319"
-      },
-      "5": {
-        "subject": "ин.яз",
-        "classroom": "214/106"
-      },
-      "6": {
-        "subject": "физ-ра",
-        "classroom": "сп.зал"
-      }
+  "Tuesday": {
+    "1": {
+      "class": "5Г",
+      "classroom": "75"
     },
-    "Tuesday": {
-      "1": {
-        "subject": "русск.яз",
-        "classroom": "301"
-      },
-      "2": {
-        "subject": "матем",
-        "classroom": "206"
-      },
-      "3": {
-        "subject": "русск.лит",
-        "classroom": "301"
-      },
-      "4": {
-        "subject": "ин.яз",
-        "classroom": "301/106"
-      },
-      "5": {
-        "subject": "чел и мир",
-        "classroom": "208"
-      }
+    "3": {
+      "class": "5А",
+      "classroom": "75"
     },
-    "Wednesday": {
-      "1": {
-        "subject": "матем",
-        "classroom": "206"
-      },
-      "2": {
-        "subject": "русск.яз",
-        "classroom": "301"
-      },
-      "3": {
-        "subject": "история",
-        "classroom": "315"
-      },
-      "4": {
-        "subject": "ОБЖ",
-        "classroom": "318"
-      },
-      "5": {
-        "subject": "русск.лит",
-        "classroom": "301"
-      },
-      "6": {
-        "subject": "инф.час",
-        "classroom": "акт.зал"
-      }
+    "4": {
+      "class": "5Б",
+      "classroom": "75"
     },
-    "Thursday": {
-      "1": {
-        "subject": "история",
-        "classroom": "315"
-      },
-      "2": {
-        "subject": "матем",
-        "classroom": "301"
-      },
-      "3": {
-        "subject": "труды",
-        "classroom": "111/109"
-      },
-      "4": {
-        "subject": "бел.яз",
-        "classroom": "315"
-      },
-      "5": {
-        "subject": "ин.яз",
-        "classroom": "106/208"
-      },
-      "6": {
-        "subject": "кл.час",
-        "classroom": "302"
-      }
+    "6": {
+      "class": "5В",
+      "classroom": "75"
+    }
+  },
+  "Wednesday": {
+    "5": {
+      "class": "3Б",
+      "classroom": "75"
     },
-    "Friday": {
-      "1": {
-        "subject": "бел.лит",
-        "classroom": "101"
-      },
-      "2": {
-        "subject": "матем",
-        "classroom": "206"
-      },
-      "3": {
-        "subject": "бел.яз",
-        "classroom": "101"
-      },
-      "4": {
-        "subject": "русск.яз",
-        "classroom": "301"
-      },
-      "5": {
-        "subject": "ЧЗС",
-        "classroom": "сп.зал2"
-      }
+    "8": {
+      "class": "3Г",
+      "classroom": "75"
+    },
+    "9": {
+      "class": "3В",
+      "classroom": "75"
+    }
+  },
+  "Thursday": {
+    "1": {
+      "class": "5В",
+      "classroom": "75"
+    },
+    "2": {
+      "class": "5А",
+      "classroom": "75"
+    },
+    "4": {
+      "class": "5Б",
+      "classroom": "75"
+    },
+    "6": {
+      "class": "5Г",
+      "classroom": "75"
+    },
+    "7": {
+      "class": "3Г",
+      "classroom": "75"
+    }
+  },
+  "Friday": {
+    "1": {
+      "class": "5Б",
+      "classroom": "75"
+    },
+    "2": {
+      "class": "5В",
+      "classroom": "75"
+    },
+    "3": {
+      "class": "5Г",
+      "classroom": "75"
+    },
+    "4": {
+      "class": "5А",
+      "classroom": "75"
+    },
+    "5": {
+      "class": "3Б",
+      "classroom": "75"
+    },
+    "8": {
+      "class": "3А",
+      "classroom": "75"
     }
   }
 }
