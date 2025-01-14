@@ -30,8 +30,16 @@
       "class": "5Б",
       "classroom": "75"
     },
-    "6": {
+    "5": {
       "class": "5В",
+      "classroom": "75"
+    },
+    "8": {
+      "class": "3В",
+      "classroom": "75"
+    },
+    "9": {
+      "class": "3А",
       "classroom": "75"
     }
   },
