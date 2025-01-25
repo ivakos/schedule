@@ -2,107 +2,107 @@
   "Monday": {
     "4": {
       "class": "3Б",
-      "classroom": "75"
+      "classroom": "14"
     },
     "7": {
       "class": "3Г",
-      "classroom": "75"
+      "classroom": "47"
     },
     "8": {
       "class": "3А",
-      "classroom": "75"
+      "classroom": "47"
     },
     "10": {
       "class": "3В",
-      "classroom": "75"
+      "classroom": "47"
     }
   },
   "Tuesday": {
     "1": {
       "class": "5Г",
-      "classroom": "75"
+      "classroom": "7"
     },
     "3": {
       "class": "5А",
-      "classroom": "75"
+      "classroom": "7"
     },
     "4": {
       "class": "5Б",
-      "classroom": "75"
+      "classroom": "8"
     },
     "5": {
       "class": "5В",
-      "classroom": "75"
+      "classroom": "1"
     },
     "8": {
       "class": "3В",
-      "classroom": "75"
+      "classroom": "47"
     },
     "9": {
       "class": "3А",
-      "classroom": "75"
+      "classroom": "31"
     }
   },
   "Wednesday": {
     "5": {
       "class": "3Б",
-      "classroom": "75"
+      "classroom": "32"
     },
     "8": {
       "class": "3Г",
-      "classroom": "75"
+      "classroom": "47"
     },
     "9": {
       "class": "3В",
-      "classroom": "75"
+      "classroom": "47"
     }
   },
   "Thursday": {
     "1": {
       "class": "5В",
-      "classroom": "75"
+      "classroom": "40"
     },
     "2": {
       "class": "5А",
-      "classroom": "75"
+      "classroom": ""
     },
     "4": {
       "class": "5Б",
-      "classroom": "75"
+      "classroom": "7"
     },
     "6": {
       "class": "5Г",
-      "classroom": "75"
+      "classroom": "22"
     },
     "7": {
       "class": "3Г",
-      "classroom": "75"
+      "classroom": "47"
     }
   },
   "Friday": {
     "1": {
       "class": "5Б",
-      "classroom": "75"
+      "classroom": "9"
     },
     "2": {
       "class": "5В",
-      "classroom": "75"
+      "classroom": "16"
     },
     "3": {
       "class": "5Г",
-      "classroom": "75"
+      "classroom": "16"
     },
     "4": {
       "class": "5А",
-      "classroom": "75"
+      "classroom": "16"
     },
     "5": {
       "class": "3Б",
-      "classroom": "75"
+      "classroom": "47"
     },
     "8": {
       "class": "3А",
-      "classroom": "75"
+      "classroom": "47"
     }
   }
 }
