@@ -1,14 +1,22 @@
 :root {
-  --text-color-main: #A1D6E2;
-  --text-color-main-active: #1995AD;
-  --text-color-second: #F1F1F2;
-  --text-color-second-active: #BCBABE;
+  --text-color-main: #26211a63;
+  --text-color: #a18d70;
+  --text-color-main-active: #a18d70;
+  --text-color-second: #26211a63;
+  --text-color-second-active: #26211a51;
 }
 
+@font-face {
+  font-family: "Intrepid"; 
+  src: url("/src/styles/Intrepid.ttf") format("truetype"); 
+  font-style: normal; 
+  font-weight: normal; 
+} 
+
 html {
-  font-family: 'Roboto', sans-serif;
-  font-size: 16px;
-  color: var(--text-color-main-active);
+  font-family: 'Intrepid';
+  font-size: 18px;
+  color: var(--text-color);
   font-weight: 600;
 }
 
@@ -17,7 +25,6 @@ html {
   position: relative;
   width: 100dvw;
   height: 100dvh;
-  background-color: #A1D6E2;
   align-items: center;
   justify-content: center;
   background-image: url('./images/bg.png');
@@ -30,9 +37,8 @@ html {
   width: 85%;
   height: 80%;
   border-radius: 15px;
-  background-color: #ffffffe4;
-  box-shadow: 0 0 15px #1994ad95;
-  padding: 10px;
+  background-color: #0d0b089d;
+  box-shadow: 0 0 30px 30px #0d0b089d;
   flex-direction: column;
   justify-content: center;
   align-items: center;
@@ -47,6 +53,7 @@ button {
   border-radius: 30px;
   justify-content: center;
 
+  font-family: Intrepid;
   font-size: 1.0rem;
   letter-spacing: 0.10rem;
 
@@ -59,10 +66,8 @@ button {
 }
 
 button:active {
-  background-color: var(--text-color-main-active);
+  background-color: var(--text-color-second-active);
   border-color: var(--text-color-main-active);
-  color: var(--text-color-main);
-  box-shadow: 0px 0px 20px 1px var(--text-color-main-active);
 }
 
 h1 {
