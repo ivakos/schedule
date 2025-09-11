@@ -1,108 +1,100 @@
 {
   "Monday": {
-    "4": {
-      "class": "3Б",
-      "classroom": "14"
-    },
     "7": {
-      "class": "3Г",
-      "classroom": "47"
+      "class": "6А",
+      "classroom": "14"
     },
     "8": {
       "class": "3А",
-      "classroom": "47"
+      "classroom": "37"
+    },
+    "9": {
+      "class": "6Г",
+      "classroom": "6"
     },
     "10": {
-      "class": "3В",
-      "classroom": "47"
+      "class": "3Б",
+      "classroom": "31"
+    },
+    "11": {
+      "class": "6Б",
+      "classroom": "2"
+    },
+    "12": {
+      "class": "6В",
+      "classroom": "2"
     }
   },
   "Tuesday": {
-    "1": {
-      "class": "5Г",
-      "classroom": "7"
-    },
-    "3": {
-      "class": "5А",
-      "classroom": "7"
-    },
-    "4": {
-      "class": "5Б",
-      "classroom": "8"
-    },
-    "5": {
-      "class": "5В",
-      "classroom": "1"
+    "7": {
+      "class": "6Б",
+      "classroom": "34"
     },
     "8": {
-      "class": "3В",
-      "classroom": "47"
+      "class": "6А",
+      "classroom": "37"
     },
     "9": {
-      "class": "3А",
-      "classroom": "31"
+      "class": "6Г",
+      "classroom": "34"
+    },
+    "10": {
+      "class": "6В",
+      "classroom": "8"
     }
   },
   "Wednesday": {
-    "5": {
-      "class": "3Б",
-      "classroom": "32"
-    },
-    "8": {
-      "class": "3Г",
-      "classroom": "47"
-    },
-    "9": {
-      "class": "3В",
-      "classroom": "47"
-    }
-  },
-  "Thursday": {
-    "1": {
-      "class": "5В",
-      "classroom": "40"
-    },
-    "2": {
-      "class": "5А",
-      "classroom": ""
-    },
-    "4": {
-      "class": "5Б",
-      "classroom": "23"
-    },
-    "6": {
-      "class": "5Г",
-      "classroom": "22"
-    },
     "7": {
-      "class": "3Г",
-      "classroom": "47"
-    }
-  },
-  "Friday": {
-    "1": {
-      "class": "5Б",
-      "classroom": "9"
-    },
-    "2": {
-      "class": "5В",
-      "classroom": "16"
-    },
-    "3": {
-      "class": "5Г",
-      "classroom": "16"
-    },
-    "4": {
-      "class": "5А",
-      "classroom": "16"
-    },
-    "5": {
-      "class": "3Б",
-      "classroom": "47"
+      "class": "6Г",
+      "classroom": "35"
     },
     "8": {
       "class": "3А",
-      "classroom": "47"
+      "classroom": "35"
+    },
+    "9": {
+      "class": "3В",
+      "classroom": "35"
+    },
+    "10": {
+      "class": "6Б",
+      "classroom": "2"
+    },
+    "11": {
+      "class": "6А",
+      "classroom": "33"
+    },
+    "12": {
+      "class": "6В",
+      "classroom": "1"
+    }
+  },
+  "Thursday": {
+    "7": {
+      "class": "3А",
+      "classroom": "28"
+    },
+    "8": {
+      "class": "3Б",
+      "classroom": "31"
+    },
+    "9": {
+      "class": "3В",
+      "classroom": "29"
+    },
+    "10": {
+      "class": "6Б",
+      "classroom": "37/39"
+    }
+  },
+  "Friday": {
+    "8": {
+      "class": "3Б",
+      "classroom": "55"
+    },
+    "9": {
+      "class": "3В",
+      "classroom": "71"
     }
   }
 }
