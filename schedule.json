@@ -1,6 +1,7 @@
 {
   "Monday": {
     "6": {
+      "specialtime": "12.45 - 13.30",
       "class": "кл.час",
       "classroom": "16"
     },
@@ -53,7 +54,8 @@
   },
   "Wednesday": {
     "6": {
-      "class": "13.40 инф. час",
+      "specialtime": "13.40",
+      "class": "инф. час",
       "classroom": "34"
     },
     "7": {
