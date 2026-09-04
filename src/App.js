@@ -62,14 +62,14 @@ const DaySchedule = () => {
 
   const lessons = schedule[day] || [];
 
-  for (let index = 1; index <= 12; index++) {
-    const lesson = lessons[index] || {};
-
+  for (let index = 6; index <= 12; index++) {
+    const lesson = lessons[index] || '';
+    if(lesson)
     listLessons.push(
       <div className='lesson' key={index}>
         <Lesson style={{ minWidth: '30px' }} value={index > 6 ? index - 6 : index} />
           <>
-            <Lesson style={{ minWidth: '100px' }} value={timeSchedule[index] || '-'} />
+            <Lesson style={{ minWidth: '100px' }} value={lesson.specialtime || timeSchedule[index] || '-'} />
             <Lesson style={{ minWidth: '100px' }} value={lesson.class || '-'} />
             <Lesson style={{ minWidth: '55px' }} value={lesson.classroom || '-'} />
           </>

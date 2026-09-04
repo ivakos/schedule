@@ -1,9 +1,9 @@
 :root {
-  --text-color-main: #26211a63;
-  --text-color: #a18d70;
-  --text-color-main-active: #a18d70;
-  --text-color-second: #26211a63;
-  --text-color-second-active: #26211a51;
+  --text-color-main: #000000;
+  --text-color: #000000;
+  --text-color-main-active: #000000;
+  --text-color-second: #b9c4c950;
+  --text-color-second-active: #b9c4c950;
 }
 
 @font-face {
@@ -27,18 +27,16 @@ html {
   height: 100dvh;
   align-items: center;
   justify-content: center;
-  background-image: url('./images/bg.png');
-  background-size: 35%;
+  background-image: url('./images/bg.jpg');
+  background-size: 75%;
 }
 
 .container {
   display: flex;
   position: relative;
-  width: 85%;
-  height: 80%;
   border-radius: 15px;
-  background-color: #0d0b089d;
-  box-shadow: 0 0 30px 30px #0d0b089d;
+  background-color: #fafafa9f;
+  box-shadow: 0 0 30px 30px #fafafa9f;
   flex-direction: column;
   justify-content: center;
   align-items: center;
