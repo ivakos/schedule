@@ -1,17 +1,17 @@
 :root {
-  --text-color-main: #000000;
-  --text-color: #000000;
-  --text-color-main-active: #000000;
-  --text-color-second: #b9c4c950;
-  --text-color-second-active: #b9c4c950;
+  --text-color-main: #07575B;
+  --text-color: #07575B;
+  --text-color-main-active: #07575B;
+  --text-color-second: #66a5ad20;
+  --text-color-second-active: #66a5ad20;
 }
 
 @font-face {
-  font-family: "Intrepid"; 
-  src: url("/src/styles/Intrepid.ttf") format("truetype"); 
-  font-style: normal; 
-  font-weight: normal; 
-} 
+  font-family: "Intrepid";
+  src: url("/src/styles/Intrepid.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+}
 
 html {
   font-family: 'Intrepid';
@@ -27,8 +27,11 @@ html {
   height: 100dvh;
   align-items: center;
   justify-content: center;
-  background-image: url('./images/bg.jpg');
-  background-size: 75%;
+  background-image: url('./images/bg.webp');
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center center;
+  /* background-size: 75%; */
 }
 
 .container {
