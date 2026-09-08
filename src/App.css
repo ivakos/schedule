@@ -29,7 +29,7 @@ html {
   justify-content: center;
   background-image: url('./images/bg.webp');
   background-repeat: no-repeat;
-  background-size: contain;
+  background-size: cover;
   background-position: center center;
   /* background-size: 75%; */
 }
@@ -38,8 +38,8 @@ html {
   display: flex;
   position: relative;
   border-radius: 15px;
-  background-color: #fafafa9f;
-  box-shadow: 0 0 30px 30px #fafafa9f;
+  background-color: #fafafa53;
+  box-shadow: 0 0 30px 30px #fafafa53;
   flex-direction: column;
   justify-content: center;
   align-items: center;
